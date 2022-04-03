@@ -5,10 +5,10 @@
 - 🌱 I’m currently learning: C, C#, Xamarins and English
 - ⚡ Fun fact: Obsessed for User Experience
 - 📫 How to reach me: jonathas553@hotmail.com
-
+<br>
 <h2>🏅 Portfolio</h2>
-✨ <b>On YouTube I present great projects created by me:</b>
-
+<b>On YouTube I present great projects created by me:</b><br>
+<a href=”https://www.youtube.com/channel/UCLLIdNXuSiKuM6UtVRyhNzQ”>The Projects</a>
 
 <br>
 <h2>🖥️ Technologies</h2>
