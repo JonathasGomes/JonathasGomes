@@ -8,7 +8,7 @@
 <br>
 <h2>🏅 Portfolio</h2>
 <b>On YouTube I present great projects created by me:</b><br>
-<a href=”https://www.youtube.com/channel/UCLLIdNXuSiKuM6UtVRyhNzQ”>The Projects</a>
+<h3><a href="https://www.youtube.com/channel/UCLLIdNXuSiKuM6UtVRyhNzQ”>" target="__blank">The Projects</a</h3>
 
 <br>
 <h2>🖥️ Technologies</h2>
