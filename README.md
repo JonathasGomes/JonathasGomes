@@ -5,6 +5,11 @@
 - 🌱 I’m currently learning: C, C#, Xamarins and English
 - ⚡ Fun fact: Obsessed for User Experience
 - 📫 How to reach me: jonathas553@hotmail.com
+
+<h2>🏅 Portfolio</h2>
+✨ <b>On YouTube I present great projects created by me:</b>
+
+
 <br>
 <h2>🖥️ Technologies</h2>
 <img align="right" alt="Bojji" src="https://c.tenor.com/P2FgUa0KyqUAAAAd/bojji-ranking.gif" width="190" height="190" />
