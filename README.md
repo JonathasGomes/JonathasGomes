@@ -7,12 +7,12 @@
 - 📫 How to reach me: jonathas553@hotmail.com
 <h2>🖥️ Technologies</h2>
 
-<h3>Main Technologies</h3>
+<h3>🌟 Main Technologies</h3>
 
 ![Csharp](https://img.shields.io/badge/C%23-604BE4?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Net](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 ![SqlServer](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-<h4>Basic Knowledge</h4>
+<h4>⭐ Basic Knowledge</h4>
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
