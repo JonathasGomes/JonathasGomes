@@ -7,7 +7,7 @@
 - 📫 How to reach me: jonathas553@hotmail.com
 <br>
 <h2>🖥️ Technologies</h2>
-
+<img align="right" alt="Bojji" src="https://c.tenor.com/qbWJoFIh5mQAAAAd/ranking-of.gif" width="250" height="250" />
 <h3>🌟 Main Technologies</h3>
 
 ![Csharp](https://img.shields.io/badge/C%23-604BE4?style=for-the-badge&logo=c-sharp&logoColor=white)
