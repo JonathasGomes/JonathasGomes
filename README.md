@@ -4,11 +4,11 @@
 - 📚 I’m currently studying: **System Analysis and Development** At [Universidade Estácio de Sá](https://estacio.br)
 - 🌱 I’m currently learning: C, C#, Xamarins and English
 - ⚡ Fun fact: Obsessed for User Experience
-- 📫 How to reach me: jonathas553@hotmail.com
+- 📫 How to reach me: jonathasjeangs@hotmail.com
 <br>
 <h2>🏅 Portfolio</h2>
-<h4><b>🎥 On YouTube I present great projects created by me:</b></h4>
-<h3>🐉 <a href="https://www.youtube.com/channel/UCLLIdNXuSiKuM6UtVRyhNzQ" target="__blank">The Projects</a></h3>
+<h4><b>🎬 On YouTube I present great projects created by me:</b></h4>
+<h3>🐉  <a href="https://www.youtube.com/channel/UCLLIdNXuSiKuM6UtVRyhNzQ" target="__blank">The Projects</a></h3>
 
 <br>
 <h2>🖥️ Technologies</h2>
