@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning: C, C#, Xamarins and English
 - ⚡ Fun fact: Obsessed for User Experience
 <br>
-<h3>💌 How to reach me: ⤵️</h3>
+<h3>💌 How to reach me </h3>
 
   <a href="mailto:jonathasjeangs@hotmail.com" alt="Outlook">
     <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:jonathasjeangs@hotmail.com" />
