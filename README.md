@@ -4,7 +4,16 @@
 - 📚 I’m currently studying: **System Analysis and Development** At [Universidade Estácio de Sá](https://estacio.br)
 - 🌱 I’m currently learning: C, C#, Xamarins and English
 - ⚡ Fun fact: Obsessed for User Experience
-- 📫 How to reach me: jonathasjeangs@hotmail.com
+<br>
+<h3>💌 How to reach me: ⤵️</h3>
+
+  <a href="mailto:jonathasjeangs@hotmail.com" alt="Outlook">
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:jonathasjeangs@hotmail.com" />
+  </a>
+  
+  <a href="https://linkedin.com/in/victorfguedes/" alt="Linkedin">
+    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathas-jean-0a8321238/" />
+  </a>
 <br>
 <h2>🏅 Portfolio</h2>
 <h4><b>🎬 On YouTube I present great projects created by me:</b></h4>
