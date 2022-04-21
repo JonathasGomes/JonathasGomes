@@ -14,12 +14,12 @@
   <a href="https://www.linkedin.com/in/jonathas-jean-0a8321238/" alt="Linkedin">
     <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathas-jean-0a8321238/" />
   </a>
+  
 <br>
 <h2>🏅 Portfolio</h2>
 <h4><b>🎬 On YouTube I present great projects created by me:</b></h4>
 <h3>🐉  <a href="https://www.youtube.com/channel/UCLLIdNXuSiKuM6UtVRyhNzQ" target="__blank">The Projects</a></h3>
 
-<br>
 <h2>🖥️ Technologies</h2>
 <img align="right" alt="Bojji" src="https://c.tenor.com/P2FgUa0KyqUAAAAd/bojji-ranking.gif" width="190" height="190" />
 <h3>🌟 Main Technologies</h3>
