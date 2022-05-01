@@ -18,7 +18,7 @@
 <br>
 <h2>🏅 Portfolio</h2>
 <h4><b>🎬 On YouTube I present great projects created by me:</b></h4>
-<h3>🐉  <a href="https://www.youtube.com/watch?v=1MPbklvrf6g&list=PLBjEu1Xg-i3raw18Q5vgk7BU7KenHDlnh" target="__blank">The Projects</a></h3>
+<h3>🐉  <a href="https://www.youtube.com/playlist?list=PLBjEu1Xg-i3raw18Q5vgk7BU7KenHDlnh" target="__blank">The Projects</a></h3>
 
 <h2>🖥️ Technologies</h2>
 <img align="right" alt="Bojji" src="https://c.tenor.com/P2FgUa0KyqUAAAAd/bojji-ranking.gif" width="190" height="190" />
@@ -26,6 +26,8 @@
 
 ![Csharp](https://img.shields.io/badge/C%23-604BE4?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Net](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![Mariadb](https://img.shields.io/badge/MariaDB-01529E?style=for-the-badge&logo=mariadb&logoColor=white
+)
 ![SqlServer](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 <br>
 <h4>⭐ Basic Knowledge</h4>
