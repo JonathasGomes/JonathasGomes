@@ -1,4 +1,4 @@
-<h1>👋 Hello! Welcome to my profile, i'm Jhon</h1>
+<h1>Hello, welcome to my profile! I'm jhon ツ</h1>
 
 -  I’m **Technician Information Technology** by the [Senac](https://sp.senac.br)
 -  I’m currently studying: **System Analysis and Development** At [Universidade Estácio de Sá](https://estacio.br)
