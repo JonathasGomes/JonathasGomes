@@ -7,9 +7,6 @@
 
 **My career goal is to become a front-end development specialist.** :)
 
-
-
-<br>
 <br>
 <img src="https://seeklogo.com/images/A/assinatura-ayrton-senna-logo-DD76942AFB-seeklogo.com.png" width="250px" height="100px" align="right"/>
 <h3>How to reach me </h3>
