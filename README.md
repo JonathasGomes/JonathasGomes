@@ -12,7 +12,7 @@
 <br>
 <br>
 <img src="https://seeklogo.com/images/A/assinatura-ayrton-senna-logo-DD76942AFB-seeklogo.com.png" width="250px" height="100px" align="right"/>
-<h4>How to reach me </h4>
+<h3>How to reach me </h3>
   <a href="https://www.linkedin.com/in/jonathas-jean-0a8321238/" alt="Linkedin">
     <img src="https://img.shields.io/badge/-Linkedin-ffffff?style=for-the-badge&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/jonathas-jean-0a8321238/" />
   </a>
