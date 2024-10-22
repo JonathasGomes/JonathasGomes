@@ -1,23 +1,13 @@
-<h1>Hello, welcome to my profile! I'm jhon ツ</h1>
+Olá, eu sou o Jhon.
 
--  I’m **Technician Information Technology** by the [Senac](https://sp.senac.br)
--  I’m currently studying: **System Analysis and Development** At [Universidade Estácio de Sá](https://estacio.br)
--  I’m currently learning: **Web Development**
-<br>
+Atuo como Desenvolvedor Front-end e Web Designer. Meu trabalho é caracterizado pela criação de websites que combinam funcionalidade com estética, com minha criatividade websites se transformam em artes digitais.
 
-**My career goal is to become a front-end development specialist.** :)
+Para saber mais sobre mim e ver meus trabalhos, visite meu [Portfólio](). Se quiser entrar em contato, você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/jonathasjean/) ou me enviar um [Email](mailto:jonathasjeangs@hotmail.com).
 
-<br>
-<img src="https://seeklogo.com/images/A/assinatura-ayrton-senna-logo-DD76942AFB-seeklogo.com.png" width="250px" height="100px" align="right"/>
-<h3>How to reach me </h3>
-  <a href="https://www.linkedin.com/in/jonathas-jean-0a8321238/" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-ffffff?style=for-the-badge&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/jonathas-jean-0a8321238/" />
-  </a>
+---
 
-  <a href="mailto:jonathasjeangs@hotmail.com" alt="Outlook">
-    <img src="https://img.shields.io/badge/Outlook-ffffff?style=for-the-badge&logo=microsoft-outlook&logoColor=black&link=mailto:jonathasjeangs@hotmail.com" />
-  </a>
+Hello, I am Jhon.
 
-  <a href="https://codepen.io/jonathasjean" alt="Codepen">
-    <img src="https://img.shields.io/badge/Codepen-ffffff?style=for-the-badge&logo=codepen&logoColor=black" />
-  </a>
+I work as a Front-end Developer and Web Designer. My work is characterized by the creation of websites that combine functionality with aesthetics, with my creativity websites transform into digital arts.
+
+To learn more about me and see my work, visit my [Portfólio](). If you want to get in touch, you can find me on [LinkedIn](https://www.linkedin.com/in/jonathasjean/) or send me an [Email](mailto:jonathasjeangs@hotmail.com).
